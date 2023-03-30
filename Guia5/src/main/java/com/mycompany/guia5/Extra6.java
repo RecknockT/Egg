@@ -45,7 +45,7 @@ public class Extra6 {
             System.out.println("");
         }
         
-        
+       int fsafsad;
     }
 
 }
